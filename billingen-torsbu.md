@@ -1,21 +1,12 @@
----
-title: Billingen - Torsbu (sun27)
----
+# Billingen - Torsbu (sun27)
 
-## Om ruta
 
-Område
-Breheimen med Jostedalsbreen, Tafjordfjella og Reinheimen, Reinheimen nasjonalpark
-Type
-Merket sommerrute (sun27)
-Gradering
-Krevende
-Lengde og varighet
-15,2 km
-5 timer, 30 minutter
-Denne ruta går i et vernet naturområde!
+## Om ruta (fra ut.no)
 
-Les mer om hva du må ta hensyn til når du ferdes i sårbar natur.
+Område: Breheimen med Jostedalsbreen, Tafjordfjella og Reinheimen, Reinheimen nasjonalpark
+Type: Merket sommerrute (sun27)
+Gradering: Krevende
+Lengde og varighet: 15,2 km, 5 timer, 30 minutter
 
 ## Fra Billingen til Torsbu
 
@@ -30,31 +21,27 @@ Sørover flatt langs Tordsvatnet til sommerbru over Tverråi, over de flate Tord
 
 Dato: 12. juli
 
-Gikk opp langs T ruta opp langs Torda. De først hundre meterene er det ferske Ter og ryddet snåbjørk. Deretter er det få varder og Ter som trenger ett strøk maling frem til 2.7km før Torsbu, hvor DNT Sunnmøre merket ifjor. 
+Gikk opp T-ruta opp langs Torda. De først hundre meterene er det ferske T-er og ryddet snåbjørk. Deretter er det få varder og T-ene trenger ett strøk maling frem til 2.7km før Torsbu, hvor DNT Sunnmøre merket og bygde mange trepunktsvarder ifjor. 
 
-Mange skiltstolper og flere av de som trenger stell. 
+Mange skiltstolper og flere av de som trenger stell eller nye skilt. 
 
-Lettgått sti og lett å følge, så overdrevet merking er ikke nødvendig. 
+Lettgått sti, lett å følge og ganske åpenbart hvor man skal gå. Overdreven merking er ikke nødvendig. 
 
 Minimalt med klipping. En liten saks holder. 
 
 ### Ny rute / ny bro
 
-Krysset Tverråi-ene ved utløpet og gikk østsiden av Torda ned. Sti etter 1.5km. Lett å følge. Sauetråkk med smal sporvidde. Nærmere Billingen inn i bjørkeskog. Vestsiden går på åpen rygg, hvor østsiden går i skog. Møter så kultursti. Som gir fint utsyn over fossen(e). 
-Endel musøre og klipping hvis man skal kunne gå med bare legger. Marginalt tørrere enn vestsiden.
+Ved Tverråhytta, krysset jeg Tverråi-elven(e) ved utløpet og gikk østsiden av Torda ned. Sti etter 1.5km. Lett å følge. Sauetråkk med smal sporvidde. Nærmere Billingen inn i bjørkeskog. Vestsiden går på åpen rygg, hvor østsiden går i skog. Møter så kultursti. Som gir fint utsyn over fossen(e). 
+Endel musøre, bjørk og einer, så klipping er nødvendig hvis man skal kunne gå med bare legger. Marginalt tørrere enn vestsiden.
 
 Vestsiden er nok en finere rute, særlig de første 2-3 kilometrene. Hvor denne går på rygg i åpent terreng.
 
 Ellers likt med telt og badeplasser.
 
-En god del T malt på jordfast stein og fjell.
+På eksisternde sti er det en god del T-er malt på jordfast stein og fjell. Oppmot Tverråhytta er det minimalt med merking.
 
-Stidele til Nysætre/Skridulaupbu?
+Hvis stien skal flyttes til østsiden, må man bestem hva man skal gjøre med stidelet til Nysætre/Skridulaupbu. Umerket sti.
 
-Praktisk med bro over Torda uansett? Eventuelt vade der istedet?
+Der broa over Torda går idag, kan det være praktisk med bro uansett. Broa går ved et typisk vadested, så vading er et godt alternativ. Relativt mindre vann i Torda får Tverråi kommer inn.
 
-
-![Torda](images/billingentorsbu/photo.jpeg)
-
-
-{{< gallery dir=param date />}}
+![Skilt ved starten på Billingen](images/billingentorsbu/IMG_0000.JPG?raw=true)
