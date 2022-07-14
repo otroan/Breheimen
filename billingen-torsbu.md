@@ -54,5 +54,7 @@ Stidele til Nysætre/Skridulaupbu?
 Praktisk med bro over Torda uansett? Eventuelt vade der istedet?
 
 
+![Torda](images/billingentorsbu/photo.jpeg)
+
 
 {{< gallery dir=param date />}}
