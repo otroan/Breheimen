@@ -1,0 +1,4 @@
+baseURL = 'http://otroan.github.io/OKBreheimen/'
+languageCode = 'en-us'
+title = 'DNT OK Breheimen'
+theme = ["github.com/halogenica/beautifulhugo"]
