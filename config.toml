@@ -1,4 +1,4 @@
-baseURL = 'http://otroan.github.io/OKBreheimen/'
+baseURL = 'https://otroan.github.io/Breheimen'
 languageCode = 'en-us'
 title = 'DNT OK Breheimen'
 theme = ["github.com/halogenica/beautifulhugo"]
