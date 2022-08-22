@@ -1,5 +1,6 @@
 # Lundadalen - Trulsbu
 
+
 Sist Dugnad: 2021  
 Inspeksjon: 2022-07-30 Ole og Merete    
 Rutenummer: [bre10](https://ut.no/rutebeskrivelse/136821/kart#11.52/61.7847/8.0817)
