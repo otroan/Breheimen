@@ -13,7 +13,7 @@ Det var vardedugnad på ruta i fjor. Mye av vardingen hadde fallt ned i begynnel
 ## Merking
 
 ### Oversiktskart
-![Lundadalen - Trulsbu](/bre10/kart.png)
+![Lundadalen - Trulsbu]({{< relref "bre10/kart.png" >}})
 
 Ruta starter ved parkeringen ved Heimaste og går inn Lundadalen, langs Lundadalsvatnet opp til Trulsbu.
 
