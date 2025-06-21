@@ -43,25 +43,24 @@ Det står en skiltstolpe ved øverste parkering. Og det er T-merket langs østsi
 
 ### Skitaren
 
-![kartutsnitt2](skitaren.jpg)
+![kartutsnitt2](skitaren.jpeg)
+
+Det opprinngelige sauetråkket gikk i henget mot elva. Her er det såpass bratt at det er fare for utglidning.
+
+Istedet legger vi ruta som vist i kartutsnittet og følger sti som krysser bekken litt høyere og følger ryggen innover. Denne stien er på kartet, men går så ned ett tråkk som ikke vises på kartet. Følg ruta som vista på kartutstnitt.
+
+#### Oppgaver
+
+Flytt varder på nederste sti til øverste. Gjennbruk stein og bruk bærenettet til å dra steinene opp til øverste sti.
 
 
 
 
-Planlagt dugnad på ruta m
+
 
 
 1. Tverråhytta. Legge ned ny stibit rett opp bakken. Endre skilt.
-2. Skitaren. Legge sti over ryggen istedet for nær elva
+
 3. Legge om stien der den flommet over
 4. Klopper på alle våte steder/bekker. Nøyaktig sted må noteres. Lengde på klopp beregnes
 5. Male på manglende T’er
-
-
-
-
-- Historie of bad compromises. 48 vs 64
-
-Dead protocols
-
-Extension headers
