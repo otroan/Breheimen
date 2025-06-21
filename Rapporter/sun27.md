@@ -22,7 +22,31 @@ Typisk kryssing av bekker, og våtområder, eller bratte traverseringer.
 
 ## Bemerkninger
 
-[Bilde 1](Rapporter/Billingen1.png)
+### Billingen
+
+![kartutsnitt1](billingen1.png)
+
+På UT starter ruta på parkeringen ved sætra (4).
+Det er i utgangspunktet 4 mulige startpunkter.
+- Nede ved riksveien (1). Der har DNT en skiltstolpe allerede.
+- På parkeringen ved sætra (4)
+- Ved Billingen sæterpensjonat (2) og opp langs østsiden og så over utleggsbrua
+- Ved Billingen sæterpensjonat (3) og opp langs vestsiden av elva og langs kulturstien opp til parkeringen
+
+Det står en skiltstolpe ved øverste parkering. Og det er T-merket langs østsiden av elva fra sæterpensjonatet over utleggsbrua og opp til øverste parkering.
+
+#### Oppgaver
+1. Skilt ved Sæterpensjonatet kombinert med NP skiltet
+2. Utvide UT ruten til å starte ved sæterpensjonatet
+3. Manglende skrue på skilt ved skiltstolpe (5). Stokkebrua.
+4. Manglende merking mellom stokkebrua og skiltstolpe (6). Sette opp 2 varder og merke på furu.
+
+### Skitaren
+
+![kartutsnitt2](skitaren.jpg)
+
+
+
 
 Planlagt dugnad på ruta m
 
@@ -32,8 +56,8 @@ Planlagt dugnad på ruta m
 3. Legge om stien der den flommet over
 4. Klopper på alle våte steder/bekker. Nøyaktig sted må noteres. Lengde på klopp beregnes
 5. Male på manglende T’er
-6. Varde og male de 100m fra stokkbroa til skiltet 
-7. Manglende skrue skilt ved stokkbrua
+
+
 
 
 - Historie of bad compromises. 48 vs 64
