@@ -65,13 +65,22 @@ Vi la stien direkte fra brua og opp til stiskille til Vetldalshytta. Erosjonsuts
 3. Flytt varden ved brua og bautaen oppe i bakken til stien mellom brua og Tverråhytta (3)
 4. Flytt varden på toppen av bakken nærmere skiltstolpen (2). Men sørg for at den fortsatt er synlig fra Tverråhytta
 
+### Oversvømmet kanal
+
+Midtveis på stien (legg til koordinater og bilder) ved høy vannføring så gikk det eksisterende tråkket over en oversvømmet "kanal". Måtte vasse i omtrent 30cm dypt vann.
+I tørt vær vil nok de fleste gå der nåværende T-merking er.
+
+Men vi bør nok enten legge om stien til høyere i terrenget rundt hele denne "botn". Eller kloppe rundt sundet.
 
 ### Generelt
 
-#### Oppgaver
+Det mangler T-maling på en god del varder. Frisk gjerne opp noe av malingen som allerede har flasset av.
 
-1. Det mangler T-maling på en god del varder. Frisk gjerne opp noe av malingen som allerede har flasset.
-2. 
-3. Legge om stien der den flommet over
-4. Klopper på alle våte steder/bekker. Nøyaktig sted må noteres. Lengde på klopp beregnes
-5. Male på manglende T’er
+Det er en del bløthøl og småkrysninger av elv som er slitasjeutsatte. Det er ønskelig fra grunneier å være litt i forkant og tilrettelegge før vi får store åpne sår etter tråkk.
+
+Alternativene er klopper eller større steiner.
+Ved små bekker kan en stor stein legges på hver side slik at det er naturlig å tråkke på steinen istedet for å hoppe over.
+
+I bløthøl kan også større heller legges ut om mulig, ellers må det kloppes. Nøyaktig klopping må planlegges nøye slik at man vet antall meter og nøyaktig posisjon slik at dette kan kjøres ut om vinteren. Forslag er gjøre denne planleggingen i dugnad #2 og ha en separat dugnad #3 for klopping.
+Forhåpentligvis kan dugnad #2 dekke en god del av problemområdene med steinlegging.
+
