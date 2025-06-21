@@ -53,14 +53,25 @@ Istedet legger vi ruta som vist i kartutsnittet og følger sti som krysser bekke
 
 Flytt varder på nederste sti til øverste. Gjennbruk stein og bruk bærenettet til å dra steinene opp til øverste sti.
 
+### Tverråhytta
+![](tverråhytta.png)
+
+Vi la stien direkte fra brua og opp til stiskille til Vetldalshytta. Erosjonsutsatt og folk flest vil nok gå via hytta uansett.
+
+#### Oppgaver
+
+1. Skiltstolpe ved brua (1). Flytt skiltene til å peke mot hytta. Eventuelt fjern skiltstolpen fullstendig?
+2. Skiltstolpe ved Veltdalshyttekrysset (2). Flytt skiltet til å peke ned mot Tverråhytta
+3. Flytt varden ved brua og bautaen oppe i bakken til stien mellom brua og Tverråhytta (3)
+4. Flytt varden på toppen av bakken nærmere skiltstolpen (2). Men sørg for at den fortsatt er synlig fra Tverråhytta
 
 
+### Generelt
 
+#### Oppgaver
 
-
-
-1. Tverråhytta. Legge ned ny stibit rett opp bakken. Endre skilt.
-
+1. Det mangler T-maling på en god del varder. Frisk gjerne opp noe av malingen som allerede har flasset.
+2. 
 3. Legge om stien der den flommet over
 4. Klopper på alle våte steder/bekker. Nøyaktig sted må noteres. Lengde på klopp beregnes
 5. Male på manglende T’er
