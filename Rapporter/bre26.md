@@ -17,6 +17,8 @@ Fra Sunndalssæteren er det T-merket resten av ruta til Skridulaupbu/Fremruste.
 
 På strekningen Sunndalssætra til toppen av Kamperhamrane gjøres vedlikehold som et samarbeid mellom Indre Nordfjord turlag og DNT Oslo. DNT Oslo søker om midler mens turlaget gjør selve arbeidet. Områdekontaktene for Breheimen utfører inspeksjon som på andre ruter. 
 
+Øst/Vest skillet går ved "Haakon Adelsten" varden.
+
 ## Inspeksjon 2023/2025
 
 Som endel av inspeksjonen ble det klippet fra Sunndalssætra ca. 3km innover mot Kamperhamrene.
