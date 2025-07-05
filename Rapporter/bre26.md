@@ -74,7 +74,38 @@ Dugnadsgruppa fra øst bor på Skridulaupbu. Eventuelt telt i tillegg, siden det
 
 ## Kontakter
 
-Grunneier: Ingolv Folven
-Indre Nordfjord turlag:
-Bente Sunde
-Olav Auflem, stiprosjektet
+Grunneierrepresentant: Ingolv Folven
+Indre Nordfjord turlag: Bente Sunde, Olav Auflem, stiprosjektet
+
+## Bilder
+
+Noen er flinkere med motorsag enn andre.
+![Motorsagsmil](bre26-bilder/IMG_0266.jpeg)
+
+Her bør det nok vurderes med klopper høyt over terrenget.
+![Vått parti på beitesti](bre26-bilder/IMG_0267.jpeg)
+
+Såpass vått at kloppa ved Sunndalssætra nesten flyter bort.
+![Vått parti på beitesti](bre26-bilder/IMG_0270.jpeg)
+
+Er det bekk eller er det sti?
+Det må vurderes om man kan gjøre bedre drenering slik at vannet renner ut
+av stien istedet for å følge den.
+
+![Sti eller bekk](bre26-bilder/IMG_0272.jpeg)
+![Sti eller bekk](bre26-bilder/IMG_0276.jpeg)
+![Sti eller bekk](bre26-bilder/IMG_0277.jpeg)
+![Sti eller bekk](bre26-bilder/IMG_5141.jpeg)
+
+Noen bauter er større enn andre.
+![Sti eller bekk](bre26-bilder/IMG_0279.jpeg)
+
+Informasjonsskiltet ved Sunndalssætra. Dette må byttes ut. Det er slitt. Teksten og bildet som viser at stien går på sørsiden av elva må byttes.
+![Informasjonsskilt](bre26-bilder/IMG_0281.jpeg)
+
+Dreneringen som er laget på beitestien fungerer utmerket.
+![Drenering](bre26-bilder/IMG_0290.jpeg)
+
+
+
+
