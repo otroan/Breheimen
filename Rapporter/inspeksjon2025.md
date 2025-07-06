@@ -39,3 +39,5 @@ Sti på kart stemmer ikke med terrenget.
 - Endre startpunkt på bre20. Starte ved slutten av veien istedet for i bånn av dalen.
 - bre26: Utvide stien til også å inkludere delen fra Sunndalssætra frem til parkeringen. Endre rutebeskrivelse?
 
+## Skiltbestillinger
+
