@@ -12,12 +12,24 @@ bre54: Dalsdalen - Fivla
 bre58: Vårstølen - Vigdastøl
 bre47: Navarsete - Fivla
 
-bre58, bre24 og bre25 er kanskje ikke DNT Oslo. Ihvertfall har vi aldri hatt dugnad på dem.
+bre58, bre24 og bre25 er ikke DNT Oslo(?)
 Grønne skilt og ser ut som noen andre tar vare på dem.
 
 bre47, bre24 og bre23 bør ha dugnad i 2026.
 
 Sti på kart stemmer ikke med terrenget.
+
+## Dugnader 2026
+
+- [Billingen - Torsbu (sun27)](sun27.md)
+- [Navarsete - Fivla (bre47)](bre47.md)
+- [Fivla - Vigdastøl (bre24)](bre24.md)
+- [Vigdastøl - Fast (bre23)](bre23.md)
+- Dalen - Fast
+- [Skridulaupbu - Kamperhamrane](bre26.md)
+
+
+
 
 ## Endringer i Turrutebasen
 
